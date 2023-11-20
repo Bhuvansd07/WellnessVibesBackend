@@ -43,3 +43,4 @@ C:\Users\BHSOOD0\Documents\Capstone\Backend\WebApplication1\obj\Debug\net6.0\ref
 C:\Users\BHSOOD0\Documents\Capstone\Backend\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\BHSOOD0\Documents\Capstone\Backend\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\BHSOOD0\Documents\Capstone\Backend\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\BHSOOD0\Documents\Capstone\Backend\WebApplication1\obj\Debug\net6.0\WebApplication1.sourcelink.json

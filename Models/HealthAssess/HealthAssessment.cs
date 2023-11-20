@@ -33,7 +33,7 @@ namespace WebApplication1.Models.HealthAssess
         [BsonElement("sleep_patterns")]
         public int SleepPattern { get; set; }
 
-        [BsonElement("mental_illness")x]
+        [BsonElement("mental_illness")]
         public string MentalIll { get; set; } = string.Empty;
 
 
